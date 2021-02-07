@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Playfair+Display&display=swap');
+
+.container{
+	width: 1000px;
+	margin: 20px auto;
+	background-color: #ae7272;
+	padding-top: 10px;
+	border-radius: 5px;
+	padding-bottom: 10px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+body{
+	background-image: url(images/quichefond.JPG); 
+}
+
+.image-position{
+	margin: 20px auto;
+	display: block;
+}
+
+.titre-center{
+	font-family: 'Cormorant Garamond', serif;
+	text-align: center;
+	}
+
+.laquicherie-div{
+	margin: 20px;
+	padding: 6px;
+	background-color: white;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	display: block;
+	}
+
+#laquicherie-marginb{
+	margin-top: 40px;
+
+    }
+
+.list-inline{
+    list-style: none;
+    display: inline;
+    margin: 40px;
+
+	}
+	
+
+.title2-center{
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+
+	}
+p{
+	
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+
+	}
+.button {
+	color: black;
+	background-color: #ae7272;
+	font-family: 'Playfair Display', serif;
+	font-weight: : 200;
+	font-size: 15px;
+	text-transform: uppercase;
+	margin: 15px;
+	margin-left: 350px;
+
+	}
+
+.button {
+  background-color: #ae7272;
+  border: none;
+  color: white;
+  padding: 12px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 315px;
+
+}
+.title3-center{
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+
+	}
+.list2-inline{
+    list-style: none;
+    display: inline;
+    margin: 40px;
+
+	}
+.title4-center{
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+
+	}	
+
+.list3-inline{
+    list-style: none;
+    display: inline;
+    margin: 30px;
+
+	}
+.title5-center{
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif;
+
+	}	
+#Instagram-button{
+    color: #cd0077;
+    padding: 420px;
+}
+
+
+
